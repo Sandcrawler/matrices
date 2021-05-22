@@ -6,6 +6,6 @@ references to this paper made. suggest reading to understand the analysis.
 
 https://github.com/Sandcrawler/hypercube
 
-leebarnard00@gmail.com
-
 Lee Barnard
+
+leebarnard00@gmail.com
